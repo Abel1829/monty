@@ -178,7 +178,7 @@ Ubuntu 20.04, Emacs, Vim, and C language.
 
 ## Authors
 
-Tesfay Teshome and Helina Gebreyes
+Tewodros Mekuriya and Abel Zewdie
 
 
 ## bf Folder
